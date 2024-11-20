@@ -6,4 +6,4 @@
 <a href="https://www.linkedin.com/in/bohdan-starunskyi-93bb09215/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/bohdanstarunskyi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
 <a href="https://discord.com/users/5943" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" height="40" width="40" /></a>
-<a href="https://t.me/bohdanstarunskyi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" alt="telegram" height="40" width="40" /></a>
+
