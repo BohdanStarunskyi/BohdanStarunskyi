@@ -1,7 +1,3 @@
-Sure! Here's a cool and engaging profile description without stats:  
-
----
-
 ## 👋 Hi, I'm Bohdan Starunskyi!  
 
 ### 💻 Android Developer | 🚀 Tech Enthusiast | 🌍 Lifelong Learner  
@@ -31,7 +27,3 @@ Feel free to reach out or collaborate. Let’s build something awesome together!
 <a href="https://www.linkedin.com/in/bohdan-starunskyi-93bb09215/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/bohdanstarunskyi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
 <a href="https://discord.com/users/5943" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" height="40" width="40" /></a>  
-
----
-
-Feel free to tweak it to match your style! 😊
