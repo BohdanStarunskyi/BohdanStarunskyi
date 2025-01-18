@@ -1,9 +1,37 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BohdanStarunskyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BohdanStarunskyi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BohdanStarunskyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-# 🔗 Connect With Me:
+Sure! Here's a cool and engaging profile description without stats:  
+
+---
+
+## 👋 Hi, I'm Bohdan Starunskyi!  
+
+### 💻 Android Developer | 🚀 Tech Enthusiast | 🌍 Lifelong Learner  
+
+Welcome to my corner of GitHub! I'm a passionate **Android software engineer** with **3+ years of experience**, crafting intuitive and user-friendly mobile applications. Beyond Android, I also love diving into **backend development** with **Kotlin**, **TypeScript**, and **NestJS** to build robust and scalable solutions.  
+
+### 🌟 What I’m Up To:  
+- **Bridging knowledge gaps** for IT students through innovative projects.  
+- Experimenting with cloud technologies, primarily on **Google Cloud Platform (GCP)**.  
+- Designing systems that empower collaboration and creativity.  
+
+### 🔧 My Toolbox Includes:  
+- **Languages:** Kotlin, TypeScript, Java, Flutter(Dart)
+- **Backend Frameworks:** NestJS  
+- **Cloud:** GCP, AWS
+- **Databases:** MiongoDB, MySQL, Redis
+
+### 🎯 What Drives Me:  
+- Sharing knowledge and creating platforms that empower others.  
+- Building meaningful software solutions that make a difference.  
+- Constantly learning new technologies and improving my craft.  
+
+---
+
+### 🌐 Let's Connect!  
+Feel free to reach out or collaborate. Let’s build something awesome together!  
 <a href="https://www.linkedin.com/in/bohdan-starunskyi-93bb09215/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/bohdanstarunskyi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
-<a href="https://discord.com/users/5943" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" height="40" width="40" /></a>
+<a href="https://discord.com/users/5943" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" height="40" width="40" /></a>  
 
+---
+
+Feel free to tweak it to match your style! 😊
