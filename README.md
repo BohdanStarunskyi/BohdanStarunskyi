@@ -35,4 +35,4 @@ Feel free to reach out or collaborate. Let's build something awesome together!
 <a href="https://www.instagram.com/bohdanstarunskyi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
 <a href="https://discord.com/users/5943" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" height="40" width="40" /></a>
 
-📫 **Contact:** bohdanstarunskyi@gmail.com | +48 880 406 741
+📫 **Contact:** bohdanstarunskyi@gmail.com
