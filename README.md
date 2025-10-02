@@ -1,15 +1,7 @@
 ## 👋 Hi, I'm Bohdan Starunskyi!  
-### 💻 Middle Android & Backend Software Engineer
+### 💻 Middle Software Engineer
 
 Welcome to my corner of GitHub! I'm a passionate **Android & Backend Software Engineer** with experience building robust and user-friendly mobile applications and scalable backend systems. Currently based in Łódź, Poland, I enjoy creating solutions that make a difference.
-
-### 🌟 What I'm Up To:  
-- Working on **IoT solutions** for Home Energy Management at Indeema Software
-- Migrating legacy Java code to **Kotlin** and optimizing apps for better performance
-- Managing **CI/CD pipelines** using Fastlane and GitLab
-- Building scalable services with **Go and Nest.js**
-- Actively **learning** new technologies
-- Researching **business processes** and **leadership methods** for scaling products and teamwork
 
 ### 🔧 My Toolbox:  
 - **Mobile:** Kotlin, Java, Jetpack Compose, Android SDK, Flutter
@@ -17,16 +9,6 @@ Welcome to my corner of GitHub! I'm a passionate **Android & Backend Software En
 - **Databases:** MongoDB, MySQL, Room, Realm, PostgreSQL, Redis
 - **Protocols & APIs:** REST, gRPC, MQTT, WebRTC
 - **DevOps:** CI/CD, Firebase, Fastlane, Swagger, GitHub Actions, GCP, Docker
-
-### 🎯 What Drives Me:  
-- Optimizing applications for better performance and scalability
-- Maintaining high-quality code with 99.9% crash-free rates
-- Continuously learning new technologies and improving my craft
-- Ability to do real imapct on any scale
-
-### 🏆 Achievements:
-- 2nd Place in Ukraine With Android App Final Project 2022, Samsung IT School
-- Successfully scaled applications for 30K+ users
 
 ---
 ### 🌐 Let's Connect!  
